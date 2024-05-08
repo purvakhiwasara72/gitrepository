@@ -1,0 +1,5 @@
+MapReduce Total cumulative CPU time: 5 seconds 30 msec
+Ended Job = job_1713794212448_0002
+Stage-5 is selected by condition resolver.
+Stage-5 is filtered out by condition resolver.
+Stage-5 is filtered out by condition resolver.
